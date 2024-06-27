@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.beatzmusic",
+    "sha256_cert_fingerprints":
+    ["03:75:88:8F:2B:30:B8:F7:A6:02:2B:EE:1D:AA:EE:DF:55:BF:A2:D8:33:57:D9:75:09:5A:8F:6F:FC:90:05:3C"]
+  }
+}]

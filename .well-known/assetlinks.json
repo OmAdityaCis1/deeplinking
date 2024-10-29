@@ -1,9 +1,12 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.ppmo_ecosystem",
-    "sha256_cert_fingerprints":
-    ["C9:77:18:8C:EB:1F:72:B4:BD:BB:AE:28:DB:56:DD:5F:FB:A8:AA:FD:B4:1E:42:82:6B:56:D8:7B:E6:77:BB:83"]
-  }
-}]
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ppmo.ecosystem",
+      "sha256_cert_fingerprints": [
+        "C9:77:18:8C:EB:1F:72:B4:BD:BB:AE:28:DB:56:DD:5F:FB:A8:AA:FD:B4:1E:42:82:6B:56:D8:7B:E6:77:BB:83"
+      ]
+    }
+  }]
